@@ -1,5 +1,5 @@
 Hi, I’m @Euctemon, a mechanical engineering student :rocket:. I'm interested in biomechanics, mathematics and programming.
-I'm working on an small family project of automated garden watering system using Raspberry and sensors from Hardawario.
+I'm working on a small family project of automated garden watering system using Raspberry and sensors from Hardawario :fountain:.
 
 
 <!---
