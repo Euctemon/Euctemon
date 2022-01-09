@@ -1,4 +1,4 @@
-Hi, I’m @Euctemon, a mechanical engineering student :rocket:. I'm interested in biomechanics, mathematics and programming.
+Hi, I’m @Euctemon, a mechanical engineering student :rocket:. I'm interested in continuum mechanics, mathematics and programming.
 I'm working on a small family project of automated garden watering system using Raspberry and sensors from Hardawario :fountain:.
 
 
