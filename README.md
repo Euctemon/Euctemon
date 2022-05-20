@@ -1,6 +1,5 @@
-Hi, I’m @Euctemon, a mechanical engineer. I'm interested in continuum mechanics, mathematics and programming. $$ \rho \frac{D\textbf{v}}{Dt} - \nabla \cdot \textbf{\sigma} - \rho \textbf{b} = 0 $$
+Hi, I’m @Euctemon, a mechanical engineer. I'm interested in continuum mechanics, mathematics and programming. $ \rho \frac{D\textbf{v}}{Dt} - \nabla \cdot \textbf{\sigma} - \rho \textbf{b} = 0 $
 
-This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
 
 
 
