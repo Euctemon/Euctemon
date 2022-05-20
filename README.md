@@ -1,6 +1,6 @@
 Hi, I’m @Euctemon, a mechanical engineer. I'm interested in continuum mechanics, mathematics and programming. $\rho \frac{D\textbf{v}}{Dt} - \rho \textbf{b} = 0 $
 
-$a \cdot  \textbf{&rho}$
+$a \cdot  \rho$
 
 
 
