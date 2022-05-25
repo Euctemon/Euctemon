@@ -1,3 +1,3 @@
 Hi, I’m @Euctemon, a mechanical engineer. I'm interested in continuum mechanics, mathematics and programming.
 
-$$\rho \left( \frac{\partial\textbf{v}}{\partial t} + v \cdot \nabla v \right) - \nabla \cdot \sigma - \rho b = 0 $$
+$$\frac{\partial c_{i}}{\partial t} + \frac{\partial c_{i}}{\partial x_{k}}c_{k} - \frac{1}{\rho} \frac{\partial \sigma_{ki}}{\partial x_{k}} - b_{i} = 0 $$
